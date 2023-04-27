@@ -64,3 +64,6 @@ In the future, we could explore other machine learning algorithms or try to opti
 ## Architecture:
 ![Project_Architecture](https://user-images.githubusercontent.com/107613797/234925643-878ad138-8537-4fce-a495-8c0a64306daa.png)
 
+
+
+
