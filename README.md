@@ -57,3 +57,10 @@ After training several machine learning models and evaluating them using cross-v
 ## Future Work
 
 In the future, we could explore other machine learning algorithms or try to optimize the hyperparameters of the current models to improve their performance. We could also collect more data and add more features to the dataset to make the model more accurate.
+
+
+
+
+## Architecture:
+![Project_Architecture](https://user-images.githubusercontent.com/107613797/234925643-878ad138-8537-4fce-a495-8c0a64306daa.png)
+
